@@ -5,6 +5,6 @@ The output contains the following:
 Title, author, publication_date, reading_time, content, comments
 
 I have included a jupyter notebook file containing the code and output but due to scrapy being 
-unable to run on jupyter notebook, I have ran it on VS Code, Additionally provided the entire project file
-from VS Code and called it webscraping_task. 
+unable to run on jupyter notebook, I have ran it on VS Code. Additionally I have provided the entire project file
+from VS Code and called the file webscraping_task. 
 
